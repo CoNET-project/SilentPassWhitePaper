@@ -1,4 +1,6 @@
-# $SP – A Meme Token with Real Utility
+# $SP
+
+### A Meme Token with Real Utility
 
 Cryptocurrency has seen an explosion of meme tokens—fun, community-driven assets that capture attention but often lack real-world use cases. These tokens thrive on speculation, but their lack of intrinsic value results in short-lived hype cycles that eventually collapse.
 

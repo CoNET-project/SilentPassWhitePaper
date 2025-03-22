@@ -1,4 +1,6 @@
-# The Internet is Broken – Silent Pass is the Fix
+# Vision and Mission
+
+### The Internet is Broken – Silent Pass is the Fix
 
 ### The Digital Privacy Crisis: Why We Need a New Internet Model
 

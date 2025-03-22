@@ -1,4 +1,6 @@
-# Use Cases: Subscription Payments, Rewards, & Governance
+# Use Cases
+
+### Subscription Payments, Rewards, & Governance
 
 $SP is not just a token—it is the economic foundation of Silent Pass. Every user interaction within the network strengthens the ecosystem, making $SP an essential component of Silent Pass’s long-term success.
 

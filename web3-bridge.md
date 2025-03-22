@@ -1,4 +1,6 @@
-# Web3 Bridge: Seamlessly Connecting Privacy & Crypto
+# Web3 Bridge
+
+### Seamlessly Connecting Privacy & Crypto
 
 As the world transitions into Web3, more users are looking for seamless, secure, and decentralized financial tools that integrate privacy, blockchain, and ease of use. However, many newcomers struggle with wallet creation, managing private keys, and navigating different blockchain networks.
 
