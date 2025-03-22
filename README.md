@@ -17,9 +17,9 @@ layout:
     visible: true
 ---
 
-# Silent Pass Overview
+# Welcome to Silent Pass
 
-## The Future of Decentralized, Censorship-Resistant, and Privacy-First Internet
+### The Future of Decentralized, Censorship-Resistant, and Privacy-First Internet
 
 ### &#x20;Silent Pass: A New Era of Privacy
 
