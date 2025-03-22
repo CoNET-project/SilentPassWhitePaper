@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Silent Pass Overview](README.md)
-  * [The Internet is Broken – Silent Pass is the Fix](silent-pass-overview/the-internet-is-broken-silent-pass-is-the-fix.md)
+* [Welcome to Silent Pass](README.md)
+  * [The Internet is Broken – Silent Pass is the Fix](welcome-to-silent-pass/the-internet-is-broken-silent-pass-is-the-fix.md)
 * [Technology](technology/README.md)
   * [Wallet-Based Authentication: Eliminating IP Tracking](technology/wallet-based-authentication-eliminating-ip-tracking.md)
   * [Fragmented Data Transmission: Preventing Metadata Tracking](technology/fragmented-data-transmission-preventing-metadata-tracking.md)
