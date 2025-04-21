@@ -9,6 +9,7 @@
   * [Zero-Trust : Assumes no entity inside or outside a network can be trusted by default](technology/zero-trust-assumes-no-entity-inside-or-outside-a-network-can-be-trusted-by-default.md)
   * [Decentralized Routing: CoNET DePIN and The Guardian Nodes](technology/decentralized-routing-conet-depin-and-the-guardian-nodes.md)
 * [Features](features.md)
+* [Comparative Analysis](comparative-analysis.md)
 * [VPN vs Proxy](vpn-vs-proxy.md)
 * [Web3 Bridge](web3-bridge.md)
 * [$SP](usdsp/README.md)
